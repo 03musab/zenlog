@@ -20,9 +20,6 @@
 * **🎯 Personal Goals**
   Set, achieve, and track mental wellness goals with interactive controls and progress indicators.
 
-* **🤖 AI-Powered Chatbot**
-  Get instant mental health tips, fitness guidance, and lifestyle advice from an integrated chatbot powered by OpenAI's GPT models.
-
 * **📱 Responsive Design**
   Fully optimized for both desktop and mobile use.
 
